@@ -1,5 +1,5 @@
 """
-<plugin key="BalimoTuya" name="Balimo - distributeur de croquettes (Tuya)" author="Balimo Domoticz plugin contributors" version="3.1.0">
+<plugin key="BalimoTuya" name="Balimo - distributeur de croquettes (Tuya)" author="Xavier" version="1.0.0">
     <description>
         <h2>Balimo (Tuya)</h2>
         Contrôle local du distributeur de croquettes.<br/>
