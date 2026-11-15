@@ -152,4 +152,4 @@ print(json.dumps(c.getstatus("DEVICE_ID"), indent=1))
 
 ## Licence
 
-MIT, voir [LICENSE](LICENSE).
+GNU General Public License v3.0, voir [LICENSE](LICENSE).
