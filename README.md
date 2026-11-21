@@ -57,7 +57,7 @@ Sur le Raspberry Pi de Domoticz (adapte le dossier des plugins) :
 ```bash
 sudo apt install -y python3-pip git
 cd /home/pi/domoticz/plugins
-sudo git clone https://github.com/<ton-compte>/balimo-domoticz-plugin.git Balimo
+git clone https://github.com/xavloco/Balimo-Domoticz.git Balimo
 sudo systemctl restart domoticz
 ```
 
